@@ -1,2 +1,7 @@
 This is file 1
+<<<<<<< HEAD
 modified in mobaxterm
+=======
+modified in git bash
+>>>>>>> feature
+modified
